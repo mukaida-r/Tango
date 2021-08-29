@@ -7,6 +7,12 @@
 * mysqlを使用したCRUD操作ができる。
 * componentの理解、データの受け渡しができる。
 
+## 開発
+* css tailwindw css
+* フロントエンド vue.js
+* サーバーサイド express
+* DB Mysql
+
 ## Build Setup
 
 ```bash
