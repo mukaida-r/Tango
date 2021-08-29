@@ -13,7 +13,7 @@
 * サーバーサイド express
 * DB Mysql
 
-## 機能
+## 機能概要
 * tailwindowを使用した、headerの作成
 * v-forディレクティブを用いたリスト表示
 
