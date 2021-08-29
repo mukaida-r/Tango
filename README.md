@@ -1,7 +1,7 @@
 # 単語帳
 ## 背景
-Vue.jsを使い慣れたい。
-wxpress/mysqlを使用したCRUD操作を行いたい。
+Vue.jsに使い慣れたい。
+express/mysqlを使用したCRUD操作を行いたい。
 
 ## 目的
 * mysqlを使用したCRUD操作ができる。
