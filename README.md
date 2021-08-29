@@ -1,4 +1,11 @@
-# Tango
+# 単語帳
+## 背景
+Vue.jsを使い慣れたい。
+wxpress/mysqlを使用したCRUD操作を行いたい。
+
+## 目的
+* mysqlを使用したCRUD操作ができる。
+* componentの理解、データの受け渡しができる。
 
 ## Build Setup
 
