@@ -1,5 +1,8 @@
 <template>
-  <Tutorial/>
+  <div>
+    <Header />
+    <WordItemRow />
+  </div>
 </template>
 
 <script lang="ts">
