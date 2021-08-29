@@ -8,7 +8,7 @@
 * componentの理解、データの受け渡しができる。
 
 ## 開発
-* css tailwindw css
+* css tailwindow css
 * フロントエンド vue.js
 * サーバーサイド express
 * DB Mysql
