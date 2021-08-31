@@ -16,6 +16,7 @@
 ## 機能概要
 * tailwindowを使用した、headerの作成
 * v-forディレクティブを用いたリスト表示
+* 動的ルーティング
 
 ## Build Setup
 
