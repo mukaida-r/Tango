@@ -17,6 +17,7 @@
 * tailwindowを使用した、headerの作成
 * v-forディレクティブを用いたリスト表示
 * 動的ルーティング (NuxtLink/v-bind)
+* クエリパラメータの設定・取得 (query/$route.query.<キー>)
 * メインレイアウトの設定
 
 ## Build Setup
