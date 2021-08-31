@@ -17,6 +17,7 @@
 * tailwindowを使用した、headerの作成
 * v-forディレクティブを用いたリスト表示
 * 動的ルーティング
+* メインレイアウトを設定
 
 ## Build Setup
 
