@@ -20,6 +20,7 @@
 * クエリパラメータの設定・取得 (query/$route.query.<キー>)
 * メインレイアウトの設定
 * matelial icons (google fonts)
+* v-modelを使用し、formのinput要素に双方向データバインディングを作成
 
 ## Build Setup
 
