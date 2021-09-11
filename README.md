@@ -21,6 +21,13 @@
 * メインレイアウトの設定
 * matelial icons (google fonts)
 * v-modelを使用し、formのinput要素に双方向データバインディングを作成
+* フォームのinputに入力された値を受け取れるようにする(body-parser(express4.17以降は標準搭載))
+* プリフライトリクエスト処理の追加（express().options設定）
+* フォーム入力された値をPOST送信でDBに登録
+* axios.post(local, body, header)の理解
+
+## APIテスト
+* postman
 
 ## Build Setup
 
