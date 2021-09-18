@@ -25,6 +25,8 @@
 * プリフライトリクエスト処理の追加（express().options設定）
 * フォーム入力された値をPOST送信でDBに登録
 * axios.post(local, body, header)の理解
+* mounted ライフサイクルフックを使用
+* DBから値を取得して画面に表示
 
 ## APIテスト
 * postman
