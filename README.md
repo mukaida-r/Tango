@@ -37,9 +37,13 @@
 * express
  cors制約の知識、API（フロントからサーバーに接続）の知識、express利用にあたるコードの知識
 * mysql
-  環境構築の知識、CRUD操作の知識
+  環境構築の知識、CRUD操作の知識、sqlの体型的な知識や用語
+
+## 足りていないスキル
 
 ## Build Setup
+* sqlの体型的な知識や用語
+* データ間のやり取りの知識
 
 ```bash
 # install dependencies
