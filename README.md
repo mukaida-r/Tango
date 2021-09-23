@@ -1,10 +1,10 @@
 # 単語帳
 ## 背景
-* Vue.jsに使い慣れたい。
+* Vue.js、express、mysqlの理解度を上げたい。
 * express/mysqlを使用したCRUD操作を行いたい。
 
 ## 目的
-* mysqlを使用したCRUD操作ができる。
+* Vue.js、express、mysqlのそれぞれ抑えるべき点を理解すること。
 * componentの理解、データの受け渡しができる。
 
 ## 開発
@@ -30,6 +30,14 @@
 
 ## APIテスト
 * postman
+
+## 感想
+*　vue.js
+　　ディレクティブの知識、scriptタグ内の知識（method、data）、データ間のやり取りの知識、componentの知識
+*　express
+ cors制約の知識、API（フロントからサーバーに接続）の知識、express利用にあたるコードの知識
+*　mysql
+  環境構築の知識、CRUD操作の知識
 
 ## Build Setup
 
