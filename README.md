@@ -27,13 +27,14 @@
 * axios.post(local, body, header)の理解
 * mounted ライフサイクルフックを使用
 * DBから値を取得して画面に表示
+* リアクティブにデータを反映
 
 ## APIテスト
 * postman
 
 ## 感想
 * vue.js
-　　ディレクティブの知識、scriptタグ内の知識（method、data）、データ間のやり取りの知識、componentの知識
+　　ディレクティブの知識、scriptタグ内の知識（method、data）、データ間のやり取りの知識(props,emit)、componentの知識
 * express
  cors制約の知識、API（フロントからサーバーに接続）の知識、express利用にあたるコードの知識
 * mysql
