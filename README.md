@@ -32,11 +32,11 @@
 * postman
 
 ## 感想
-*　vue.js
+* vue.js
 　　ディレクティブの知識、scriptタグ内の知識（method、data）、データ間のやり取りの知識、componentの知識
-*　express
+* express
  cors制約の知識、API（フロントからサーバーに接続）の知識、express利用にあたるコードの知識
-*　mysql
+* mysql
   環境構築の知識、CRUD操作の知識
 
 ## Build Setup
